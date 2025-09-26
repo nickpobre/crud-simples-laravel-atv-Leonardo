@@ -21,10 +21,9 @@ Primeiramente, clone o repositório do projeto para sua máquina local utilizand
 
 ```bash
 # Clone o repositório (substitua a URL pelo link do seu repositório)
-git clone https://github.com/seu-usuario/crud-application.git
-
+git clone https://github.com/nickpobre/crud-simples-laravel-atv-Leonardo
 # Acesse o diretório do projeto que foi criado
-cd crud-application
+cd crud-simples-laravel-atv-leonardo
 ```
 
 ### Passo 2: Instalar as Dependências do Projeto
@@ -66,7 +65,7 @@ A configuração específica do ambiente local é armazenada no arquivo `.env`.
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=crud_application  # <- Certifique-se de ter criado este banco de dados
+    DB_DATABASE=crud_simples      # <- Certifique-se de ter criado este banco de dados
     DB_USERNAME=root              # <- Seu usuário do banco de dados
     DB_PASSWORD=                  # <- Sua senha do banco de dados (pode ser vazia)
     ```
