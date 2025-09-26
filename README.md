@@ -20,7 +20,7 @@ Siga os passos abaixo para configurar e iniciar a aplicação.
 Primeiramente, clone o repositório do projeto para sua máquina local utilizando o Git.
 
 ```bash
-# Clone o repositório (substitua a URL pelo link do seu repositório)
+# Clone o repositório
 git clone https://github.com/nickpobre/crud-simples-laravel-atv-Leonardo
 # Acesse o diretório do projeto que foi criado
 cd crud-simples-laravel-atv-leonardo
